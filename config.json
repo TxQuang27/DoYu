@@ -1,0 +1,17 @@
+{
+  "download_url": "",
+  "download_directory": "D:\\CODE\\Py_Data\\DoYu_Flet\\resources\\Music",
+  "theme": "dark",
+  "background_image": "resources/Background/Background 2.jpg",
+  "music_file": "resources/Music/Tek It (Sped Up) - Cafuné.mp3",
+  "music_volume": 0.25,
+  "music_repeat": true,
+  "music_autoplay": true,
+  "BG_COLOR": "#151B2B",
+  "PANEL_COLOR": "#FFFFFF",
+  "TEXT_COLOR": "#000000",
+  "MUTED_COLOR": "#0054FC",
+  "BORDER_COLOR": "#111827",
+  "GREEN_COLOR": "#16A34A",
+  "RED_COLOR": "#DC2626"
+}
